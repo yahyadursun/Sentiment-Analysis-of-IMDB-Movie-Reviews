@@ -10,7 +10,8 @@ imdb-sentiment-analysis/
 ├── IMDB Dataset.csv           # Raw dataset
 ├── model.pkl                  # Trained machine learning model
 ├── tfidf_vectorizer.pkl       # TF-IDF vectorizer
-└── sentiment_analysis.ipynb   # Main Jupyter Notebook
+├── main.ipynb                 # Main Jupyter Notebook
+└── loading_trained_model.ipynb #Loading trained model for custom reviews
 ```
 
 ## 🛠 Technologies and Libraries Used
